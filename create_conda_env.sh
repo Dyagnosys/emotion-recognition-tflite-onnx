@@ -1,0 +1,1 @@
+conda create -n emotion-recognition python=3.9 -y && conda activate emotion-recognition && pip install -r requirements.txt
