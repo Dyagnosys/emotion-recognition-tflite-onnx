@@ -23,11 +23,7 @@ wheels/
 .installed.cfg
 *.egg
 
-# Model Files
-*.pt
-*.pth
-*.onnx
-*.tflite
+
 
 # Video Files
 *.mp4
